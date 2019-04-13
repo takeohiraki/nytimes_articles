@@ -1,0 +1,30 @@
+#containerSearch {
+    margin-top: 2%;
+ }
+ 
+ #articlesContainer {
+    margin-top: 2%;
+ }
+ 
+ #buttonContainer {
+    margin-bottom: 1%;
+    margin-left: 1.4%;
+ }
+ 
+ h1 {
+    font-family: “Merriweather”, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+ }
+ .jumbotron {
+    background-color: rgb(45, 45, 136)
+ }
+ 
+ .articles {
+    font-weight: bolder;
+ }
+ 
+ .searchParameters {
+    font-weight: bolder;
+ }
